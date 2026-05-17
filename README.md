@@ -43,4 +43,4 @@ Built on the foundation of **DS.QUERY.BOT-001**, this version introduces a refin
 
 ## 📌 Fun Part*
 
-> “What was once a simple chatbot has now become a contained AI artifact — designed to be used, not tampered with.”
+> “What was once a simple chatbot has now become a contained AI artifact — designed to be used, not to be tampered with.”
